@@ -2,6 +2,11 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
+  <action id="Console.TableResult.FindInGrid" />
+  <action id="Find" />
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -17,4 +22,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Vcs.Log.GoToRef" />
 </keymap>
