@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../dynamic_data_producer/src/main/java/com/pinterest/dataproducer/inflightspend/util/downproducer/KafkaOutputWriter.java - [dynamic_data_producer]'" />
+    <option name="defaultScopeName" value="File '.../dynamic_data_producer/src/main/java/com/pinterest/dataproducer/inflightspend/util/downproducer/KafkaOutputWriter.java - [dynamic_data_producer]'" />
+    <option name="SEARCH_SCOPE" value="File '.../dynamic_data_producer/src/main/java/com/pinterest/dataproducer/inflightspend/util/downproducer/KafkaOutputWriter.java - [dynamic_data_producer]'" />
   </component>
 </application>
