@@ -5,6 +5,9 @@
   <action id="Console.TableResult.FindInGrid" />
   <action id="Find" />
   <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Replace">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
   <action id="SwitchApply">
