@@ -9,15 +9,13 @@
     <value>
       <package name="static all other" withSubpackages="true" static="false" />
       <emptyLine />
-      <package name="com" withSubpackages="true" static="false" />
+      <package name="com.pinterest" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="java" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="javax" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="org" withSubpackages="true" static="false" />
-      <emptyLine />
-      <package name="" withSubpackages="true" static="false" />
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="100" />
