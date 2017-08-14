@@ -1,5 +1,4 @@
 <code_scheme name="Pinterest Code Style V2">
-  <option name="LAYOUT_STATIC_IMPORTS_SEPARATELY" value="false" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
@@ -7,7 +6,7 @@
   </option>
   <option name="IMPORT_LAYOUT_TABLE">
     <value>
-      <package name="static all other" withSubpackages="true" static="false" />
+      <package name="" withSubpackages="true" static="true" />
       <emptyLine />
       <package name="com.pinterest" withSubpackages="true" static="false" />
       <emptyLine />
@@ -16,6 +15,7 @@
       <package name="java" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="javax" withSubpackages="true" static="false" />
+      <emptyLine />
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="100" />
