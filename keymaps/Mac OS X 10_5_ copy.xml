@@ -3,6 +3,7 @@
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="Images.ShowThumbnails" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
