@@ -2,4 +2,25 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="Find" />
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
 </keymap>
