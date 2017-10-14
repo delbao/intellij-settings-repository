@@ -14,6 +14,9 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="FullyExpandTreeNode">
+    <keyboard-shortcut first-keystroke="shift multiply" />
+  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
