@@ -6,6 +6,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.go" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -21,6 +22,7 @@
       <mask>test.properties</mask>
       <mask>test.go</mask>
       <mask>*test.go</mask>
+      <mask>*.go</mask>
     </recentFileMasks>
   </component>
 </application>
