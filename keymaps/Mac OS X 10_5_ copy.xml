@@ -6,6 +6,15 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="DSM.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="Find" />
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="meta r" />
@@ -19,6 +28,12 @@
   </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="Maven.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta alt right" />
