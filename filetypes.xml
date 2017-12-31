@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gopath" type="PLAIN_TEXT" />
       <mapping pattern="devserver" type="PLAIN_TEXT" />
       <mapping ext="dash" type="PLAIN_TEXT" />
     </extensionMap>
