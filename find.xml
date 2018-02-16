@@ -3,13 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*main.go" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
       <mask>*.properties</mask>
       <mask>.properties</mask>
       <mask>tes.properties</mask>
@@ -28,7 +27,6 @@
       <mask>*test.ja</mask>
       <mask>*test.java</mask>
       <mask>*.g</mask>
-      <mask>*.go</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
@@ -36,6 +34,11 @@
       <mask>*</mask>
       <mask>*test.</mask>
       <mask>*test.go</mask>
+      <mask>*tes.go</mask>
+      <mask>*te.go</mask>
+      <mask>*.go</mask>
+      <mask>*ma.go</mask>
+      <mask>*main.go</mask>
     </recentFileMasks>
   </component>
 </application>
