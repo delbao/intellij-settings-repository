@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*test.go" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -15,7 +16,6 @@
       <mask>tes.properties</mask>
       <mask>test.properties</mask>
       <mask>test.go</mask>
-      <mask>*test.go</mask>
       <mask>*.s</mask>
       <mask>*.scala</mask>
       <mask>*.scal</mask>
@@ -25,17 +25,18 @@
       <mask>*te</mask>
       <mask>*tes</mask>
       <mask>*test</mask>
-      <mask>*test.</mask>
       <mask>*test.j</mask>
       <mask>*test.ja</mask>
       <mask>*test.java</mask>
       <mask>*.g</mask>
       <mask>*.go</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*</mask>
+      <mask>*test.</mask>
+      <mask>*test.go</mask>
     </recentFileMasks>
   </component>
 </application>
