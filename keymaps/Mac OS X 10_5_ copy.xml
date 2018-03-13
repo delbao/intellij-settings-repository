@@ -9,6 +9,7 @@
   <action id="DSM.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
