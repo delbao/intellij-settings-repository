@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*java" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>.properties</mask>
       <mask>tes.properties</mask>
       <mask>test.properties</mask>
@@ -26,7 +26,6 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*</mask>
       <mask>*test.</mask>
       <mask>*test.go</mask>
       <mask>*tes.go</mask>
@@ -34,6 +33,8 @@
       <mask>*.go</mask>
       <mask>*ma.go</mask>
       <mask>*main.go</mask>
+      <mask>*</mask>
+      <mask>*java</mask>
     </recentFileMasks>
   </component>
 </application>
