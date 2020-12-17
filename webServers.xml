@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="13641786-715f-4957-b53d-27f3c73c61a9" name="csstable-mlds-2">
-        <fileTransfer accessType="SFTP" host="localhost" port="24710" sshConfigId="4809afaa-d4f8-41d2-a4bd-23009adaadaa" sshConfig="csstable-mlds-2" authAgent="true" />
-      </webServer>
-    </option>
-  </component>
-</application>
