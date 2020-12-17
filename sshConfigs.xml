@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="localhost" id="4809afaa-d4f8-41d2-a4bd-23009adaadaa" port="24710" customName="csstable-mlds-2" nameFormat="CUSTOM" username="ubuntu">
+        <option name="customName" value="csstable-mlds-2" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
