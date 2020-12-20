@@ -3,10 +3,11 @@
     <option name="FONT_SIZE" value="18" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Python" value="true" />
+      </map>
+    </option>
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
   </component>
 </application>
